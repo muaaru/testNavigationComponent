@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/navigation.xml","javaFiles":["com.muaaru.testnavigationcomponent.SelectFragmentDirections","com.muaaru.testnavigationcomponent.single.TransitionSourceFragmentDirections","com.muaaru.testnavigationcomponent.grid.TransitionSourceGridFragmentDirections","com.muaaru.testnavigationcomponent.grid.TransitionDestinationGridFragmentArgs"]}]

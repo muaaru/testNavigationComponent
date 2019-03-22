@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_transition_destination_grid.xml",
+        "source": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/res/layout/fragment_transition_destination_grid.xml"
+    },
+    {
+        "merged": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_transitionsourcegrid.xml",
+        "source": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/res/layout/fragment_transitionsourcegrid.xml"
+    }
+]

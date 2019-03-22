@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/lion/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/e16fed89632b4a5bf2c96e26c8dc9f63/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/lion/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/e16fed89632b4a5bf2c96e26c8dc9f63/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}
