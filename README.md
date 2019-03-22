@@ -9,3 +9,5 @@ https://github.com/googlesamples/android-architecture-components/tree/master/Git
 
 * 通常のViewをクリックしただけの遷移
 * RecyclerViewで表示されている要素からの遷移
+
+<img src="https://raw.github.com/wiki/muaaru/testNavigationComponent/testMovie.gif" width="300">
