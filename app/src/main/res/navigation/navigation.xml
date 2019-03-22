@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/navigation"
+            app:startDestination="@id/selectFragment">
+
+    <fragment android:id="@+id/selectFragment" android:name="com.muaaru.testnavigationcomponent.SelectFragment"
+              android:label="fragment_select" tools:layout="@layout/fragment_select">
+        <action android:id="@+id/action_selectFragment_to_transitionSourceFragment"
+                app:destination="@id/transitionSourceFragment"/>
+        <action android:id="@+id/action_selectFragment_to_transitionSourceGridFragment"
+                app:destination="@id/transitionSourceGridFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/transitionSourceFragment"
+              android:name="com.muaaru.testnavigationcomponent.single.TransitionSourceFragment"
+              android:label="fragment_transition_source"
+              tools:layout="@layout/fragment_transition_source">
+        <action
+                android:id="@+id/action_transitionSourceFragment_to_transitionDestinationFragment"
+                app:destination="@id/transitionDestinationFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/transitionDestinationFragment"
+              android:name="com.muaaru.testnavigationcomponent.single.TransitionDestinationFragment"
+              android:label="fragment_transition_destination"
+              tools:layout="@layout/fragment_transition_destination"/>
+
+    <fragment android:id="@+id/transitionSourceGridFragment"
+              android:name="com.muaaru.testnavigationcomponent.grid.TransitionSourceGridFragment"
+              android:label="fragment_transitionsourcegrid_list"
+              tools:layout="@layout/fragment_transitionsourcegrid_list">
+        <action android:id="@+id/action_transitionSourceGridFragment_to_transitionDestinationGridFragment"
+                app:destination="@id/transitionDestinationGridFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/transitionDestinationGridFragment"
+              android:name="com.muaaru.testnavigationcomponent.grid.TransitionDestinationGridFragment"
+              android:label="fragment_transition_destination_grid"
+              tools:layout="@layout/fragment_transition_destination_grid">
+        <argument
+                android:name="transitionName"
+                app:argType="string"/>
+    </fragment>
+</navigation>
