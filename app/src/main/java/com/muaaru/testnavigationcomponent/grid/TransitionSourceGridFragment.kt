@@ -1,20 +1,17 @@
 package com.muaaru.testnavigationcomponent.grid
 
 import android.os.Bundle
-import android.util.Log
-import androidx.fragment.app.Fragment
-import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.fragment.FragmentNavigatorExtras
+import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.muaaru.testnavigationcomponent.R
-
 import com.muaaru.testnavigationcomponent.grid.dummy.DummyContent
-import com.muaaru.testnavigationcomponent.grid.dummy.DummyContent.DummyItem
 
 class TransitionSourceGridFragment : Fragment() {
 
@@ -33,16 +30,16 @@ class TransitionSourceGridFragment : Fragment() {
                     columnCount <= 1 -> LinearLayoutManager(context)
                     else -> GridLayoutManager(context, columnCount)
                 }
-                adapter = MyTransitionSourceGridRecyclerViewAdapter(
+                adapter = MyRecyclerViewAdapter(
                     DummyContent.ITEMS,
                     object : ItemClickListener {
-                        override fun onClickItem(targetView: View, item: DummyItem) {
+                        override fun onClickItem(transitionView: View) {
                             view.findNavController().navigate(
                                 TransitionSourceGridFragmentDirections.actionTransitionSourceGridFragmentToTransitionDestinationGridFragment(
-                                    targetView.transitionName
+                                    transitionView.transitionName
                                 ),
                                 FragmentNavigatorExtras(
-                                    targetView to targetView.transitionName
+                                    transitionView to transitionView.transitionName
                                 )
                             )
                         }
@@ -65,6 +62,6 @@ class TransitionSourceGridFragment : Fragment() {
     }
 
     interface ItemClickListener {
-        fun onClickItem(targetView: View, item: DummyItem)
+        fun onClickItem(transitionView: View)
     }
 }

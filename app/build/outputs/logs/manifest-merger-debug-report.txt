@@ -4,8 +4,6 @@ ADDED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigatio
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
-MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/f005a805f309288f75752585e54047b8/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/19f4344c5a3fbb4364a692e930b98ce4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-2.1.0-alpha01.aar/80065c30f483f10538fece9c000eef97/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-2.1.0-alpha01.aar/fd30edcecc0bc1382ad1f6496ec59b8b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9adbd12a26141caa647bc6c65e04b529/AndroidManifest.xml:17:1-24:12
@@ -16,6 +14,8 @@ MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha01] /Users/l
 MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-fragment-2.1.0-alpha01.aar/a51a66f6854645563b0549962d5669a5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/173c783ff993636bf98f21bff085c3f7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/9ba1eb4efc17f1621cdc331e5b861b0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/590d59ce5b619faea2ab0e50daeb1e30/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/fa2a946dc22063ef0ef00e696be17e4c/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/610d80d1aa9852c1aa4ef3fe35336b54/AndroidManifest.xml:17:1-22:12
@@ -30,17 +30,14 @@ MERGED from [androidx.customview:customview:1.0.0] /Users/lion/.gradle/caches/tr
 MERGED from [androidx.loader:loader:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7179bb6094a172d9f9dbff7d6d1c5d2b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/1a7d84d8a5ba14140ac17503a414ed19/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lion/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/e411893a5bc46a8294d6e220b81bed03/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-2.1.0-alpha01.aar/35136843cb75769b8f27e5f187d88602/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-2.1.0-alpha01.aar/27906ec8c6c15ee36d7080f495f4b632/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/ebf62bb91da0f32a8532c0af2a7b6985/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/95f57b255b71ae3c9ce4d04313f9644f/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d3c4f6235e320e874257e4c23eb7228e/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e4dffb0f840abe376a9c82f6643e1b6f/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/82fd85bad82ea1d8296351003ba63425/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/0336c0f357c7ac86d9a44fe7ecaecd3d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/df45782ec94c1cf33d8a1e7c3089da87/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2e87200db8f87f13a129062d190bbb42/AndroidManifest.xml:17:1-22:12
@@ -51,6 +48,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/lion/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/49254ec13c24b31c91d35070bbdb51a8/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0894c38be1ce5c7b5c1cb1eb65407c25/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6a562702a6c899f709850dd74938406/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:17:1-22:12
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml:2:1-22:12
@@ -110,10 +108,6 @@ uses-sdk
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/f005a805f309288f75752585e54047b8/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/f005a805f309288f75752585e54047b8/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/19f4344c5a3fbb4364a692e930b98ce4/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/lion/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/19f4344c5a3fbb4364a692e930b98ce4/AndroidManifest.xml:22:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-2.1.0-alpha01.aar/80065c30f483f10538fece9c000eef97/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-ui-ktx-2.1.0-alpha01.aar/80065c30f483f10538fece9c000eef97/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-2.1.0-alpha01.aar/fd30edcecc0bc1382ad1f6496ec59b8b/AndroidManifest.xml:20:5-44
@@ -134,6 +128,10 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/lion/.gradle/caches
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/173c783ff993636bf98f21bff085c3f7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/9ba1eb4efc17f1621cdc331e5b861b0c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/9ba1eb4efc17f1621cdc331e5b861b0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/590d59ce5b619faea2ab0e50daeb1e30/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/590d59ce5b619faea2ab0e50daeb1e30/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/fa2a946dc22063ef0ef00e696be17e4c/AndroidManifest.xml:20:5-44
@@ -162,12 +160,8 @@ MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/lion/.gradle/cache
 MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/1a7d84d8a5ba14140ac17503a414ed19/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lion/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/e411893a5bc46a8294d6e220b81bed03/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lion/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/e411893a5bc46a8294d6e220b81bed03/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-ktx-2.1.0-alpha01.aar/a1c0071e900b231d719c1cddb153bd5b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-2.1.0-alpha01.aar/35136843cb75769b8f27e5f187d88602/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-runtime-2.1.0-alpha01.aar/35136843cb75769b8f27e5f187d88602/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-ktx-2.1.0-alpha01.aar/3b18c656d7f275ec50dd5ecef3f2cc18/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-2.1.0-alpha01.aar/27906ec8c6c15ee36d7080f495f4b632/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.1.0-alpha01] /Users/lion/.gradle/caches/transforms-1/files-1.1/navigation-common-2.1.0-alpha01.aar/27906ec8c6c15ee36d7080f495f4b632/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/ebf62bb91da0f32a8532c0af2a7b6985/AndroidManifest.xml:20:5-44
@@ -178,12 +172,10 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lion
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d3c4f6235e320e874257e4c23eb7228e/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e4dffb0f840abe376a9c82f6643e1b6f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0-alpha05] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e4dffb0f840abe376a9c82f6643e1b6f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/82fd85bad82ea1d8296351003ba63425/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/82fd85bad82ea1d8296351003ba63425/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/lion/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/3588cf6ad6526a95a1b314dd23c4b33a/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/0336c0f357c7ac86d9a44fe7ecaecd3d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/0336c0f357c7ac86d9a44fe7ecaecd3d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/df45782ec94c1cf33d8a1e7c3089da87/AndroidManifest.xml:20:5-44
@@ -204,6 +196,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lion/.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0894c38be1ce5c7b5c1cb1eb65407c25/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6a562702a6c899f709850dd74938406/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lion/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6a562702a6c899f709850dd74938406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/lion/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/5fbdbbd67176862e410f8fbd596a7daf/AndroidManifest.xml:20:5-44
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml
 INJECTED from /Volumes/SSD_750_EVO_120G/Dropbox/Projects/tesstProject/testNavigationComponent/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

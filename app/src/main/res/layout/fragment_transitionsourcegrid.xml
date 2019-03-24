@@ -1,42 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
-        xmlns:android="http://schemas.android.com/apk/res/android">
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
-    <data>
-        <variable
-                name="item"
-                type="com.muaaru.testnavigationcomponent.grid.dummy.DummyContent.DummyItem"/>
-    </data>
-
-    <LinearLayout
+    <ImageView
+            android:src="@drawable/ic_android_green_24dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:id="@+id/imageView"/>
 
-        <ImageView
-                android:src="@drawable/ic_android_green_24dp"
-                app:transitionName="@{item.id}"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView"/>
+    <TextView
+            android:id="@+id/item_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="id"
+            android:textAppearance="?attr/textAppearanceListItem"/>
 
-        <TextView
-                android:id="@+id/item_number"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="@dimen/text_margin"
-                android:text="@{item.id}"
-                android:textAppearance="?attr/textAppearanceListItem"/>
-
-        <TextView
-                android:id="@+id/content"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="@dimen/text_margin"
-                android:text="@{item.content}"
-                android:textAppearance="?attr/textAppearanceListItem"/>
-    </LinearLayout>
-
-</layout>
+    <TextView
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="content"
+            android:textAppearance="?attr/textAppearanceListItem"/>
+</LinearLayout>
 
